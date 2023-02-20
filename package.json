@@ -1,0 +1,16 @@
+{
+  "name": "bluealert.pl",
+  "version": "1.0.0",
+  "description": "Automated test selenium for testng first page of form on bluealert.pl.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["form", "selenium", "filling form with data", "automated tests", "bluealert.pl"],
+  "author": "Iwona Podleśna",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^110.0.0",
+    "selenium-webdriver": "^4.8.1"
+  }
+}
